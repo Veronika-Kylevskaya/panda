@@ -1,0 +1,4 @@
+hosts:
+  sd-kit4:
+    server: sd-kit4
+    db_name: testpatiokitminsk
